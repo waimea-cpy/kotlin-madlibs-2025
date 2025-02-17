@@ -1,2 +1,8 @@
-# kotlin-madlibs-2025
-A simple MadLibs game in Kotlin - working with variables, user input and text
+# Kotlin 'MadLibs' Game
+
+A simple MadLibs game in Kotlin
+
+Working with:
+- variables
+- user input
+- string templates
